@@ -12,6 +12,7 @@ use PhpParser\Node\Stmt\TryCatch;
 /*
 TODO: 
 API version
+Test bad field send in API (create et update)
 Language manager
 Add href in response
 Add logs
